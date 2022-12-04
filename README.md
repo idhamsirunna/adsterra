@@ -1,0 +1,2 @@
+# adsterra
+Kode Iklan Adsterra
