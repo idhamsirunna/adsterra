@@ -21,8 +21,8 @@ $(document).ready(function()
     {
         e.preventDefault();            
 
-        window.open('https://kalganautographeater.com/vadm42zqii?key=0e4285caadd7d513717875c9c33cd881',"_blank");
-        window.location.href = 'https://kalganautographeater.com/vadm42zqii?key=0e4285caadd7d513717875c9c33cd881';
+        window.open(direct_link_ads,"_blank");
+        window.location.href = go_current;
     });
 
 });
